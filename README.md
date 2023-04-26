@@ -2,7 +2,7 @@
 
 >>I'm an ECE student trying to learn programming, so if you're here to judge my code, please be gentle.
 
->>I promise I'll get better with time, just like a fine wine.
+>>I promise I'll get better with time.
 
 >>Just a warning, my code might make you question your life choices, but hey, isn't that what learning is all about?
 
