@@ -4,9 +4,9 @@
 
 >>I promise I'll get better with time.
 
->>Just a warning, my code might make you question your life choices, but hey, isn't that what learning is all about?
+>>Just a warning, my code might make you question your life choices.
 
->>But seriously, feel free to look around, leave a comment, or even a joke. 
+>>Feel free to look around, leave a comment, or even a joke. 
 
 >>If you're looking for perfectly optimized code, you've come to the wrong place.
 
