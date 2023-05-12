@@ -1,4 +1,4 @@
-<<Welcome to my GitHub repo!>>
+<<Welcome to my GitHub repo!>> :java:
 
 >>I'm an ECE student trying to learn programming, so if you're here to judge my code, please be gentle.
 
