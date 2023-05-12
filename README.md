@@ -1,4 +1,5 @@
-<<Welcome to my GitHub repo!>> :java:
+<<Welcome to my GitHub repo!>> <img width="64" alt="java" src="https://github.com/deeban-dc/read_dc/assets/93963479/a0a203f9-74a2-49a4-b422-1bfab45b05b4">
+
 
 >>I'm an ECE student trying to learn programming, so if you're here to judge my code, please be gentle.
 
