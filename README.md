@@ -1,5 +1,6 @@
 <<Welcome to my GitHub repo!>> <img width="20" alt="java" src="https://github.com/deeban-dc/read_dc/assets/93963479/a0a203f9-74a2-49a4-b422-1bfab45b05b4">
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdeeban-dc%2Fread_dc%2Fblob%2Fmain%2FREADME.md&countColor=%23263759)
 
 >>I'm an ECE student trying to learn programming, so if you're here to judge my code, please be gentle.
 
