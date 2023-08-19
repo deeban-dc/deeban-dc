@@ -3,12 +3,6 @@
 
 >>I'm an ECE student trying to learn programming, so if you're here to judge my code, please be gentle.
 
->>I promise I'll get better with time.
-
->>Just a warning, my code might make you question your life choices.
-
->>Feel free to look around, leave a comment, or even a joke. 
-
 >>If you're looking for perfectly optimized code, you've come to the wrong place.
 
 
